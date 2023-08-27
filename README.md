@@ -1,3 +1,3 @@
 # Imagery classification 
 
-This is the repository for vegetation classification based on satellite imagery and machine learning methods 
+This is the repository for vegetation classification using satellite imagery and ensemble machine learning algorithms
